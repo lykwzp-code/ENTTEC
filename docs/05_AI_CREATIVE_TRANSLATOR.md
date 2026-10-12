@@ -160,6 +160,96 @@ Examples:
 
 Any reuse for model development would require appropriate consent, rights and data governance.
 
+## 5A. The research foundation: learn the translation before automating it
+
+Before training or designing an AI layer, Artist Lab should first help the team understand the translation process manually.
+
+The key dataset is not merely:
+
+**audio feature → lighting parameter**
+
+It is closer to:
+
+**musical element  
+→ artist-defined role  
+→ artistic intent  
+→ desired sound/light relationship  
+→ visual primitive  
+→ actual EMU decision  
+→ artist evaluation**
+
+This distinction matters.
+
+A kick drum is not universally a flash.  
+Bass is not universally a dark colour.  
+Vocals are not universally a spotlight.
+
+The same musical element can mean different things in different works because the creator’s intent changes.
+
+### What the team should learn from artists
+
+Across multiple sessions, document:
+
+- how artists divide a song conceptually
+- which musical elements they consider meaningful
+- how they describe the role of those elements
+- what they want light to emphasize or ignore
+- how they describe visual space, movement and timing
+- what “wrong” visual interpretation looks like to them
+- which relationships repeat across creators
+- which preferences remain highly individual
+
+This work can gradually produce a **Music-to-Light Visual Grammar**.
+
+Only after that grammar is understood should AI be asked to help with translation.
+
+Otherwise the risk is building a technically impressive model that automates generic clichés rather than creator intent.
+
+## 5A. AI 之前的研究基础：先理解 translation，再自动化
+
+在设计甚至训练 AI layer 之前，Artist Lab 应该先帮助团队人工理解这个 translation process 到底是什么。
+
+真正有价值的数据并不只是：
+
+**audio feature → lighting parameter**
+
+而更接近：
+
+**musical element  
+→ artist-defined role  
+→ artistic intent  
+→ desired sound/light relationship  
+→ visual primitive  
+→ actual EMU decision  
+→ artist evaluation**
+
+这个区别非常重要。
+
+kick drum 并不天然等于闪光。  
+bass 并不天然等于深色。  
+vocals 也并不天然等于 spotlight。
+
+同一个音乐元素，在不同作品里可以承担完全不同的表达作用，因为 creator intent 本身不同。
+
+### 应该从音乐人那里学什么
+
+经过多次共创，可以持续记录：
+
+- 音乐人自己怎样概念性地拆一首歌
+- 哪些 musical element 对他们真正重要
+- 他们怎样描述这些元素的作用
+- 哪些东西希望灯光强调，哪些希望忽略
+- 他们怎样描述空间、movement 和 timing
+- 什么样的视觉诠释会让他们觉得“完全错了”
+- 哪些关系在不同 creator 身上反复出现
+- 哪些偏好始终高度个人化
+
+这些研究可以逐渐形成一套 **Music-to-Light Visual Grammar**。
+
+只有先理解这套 grammar，才值得进一步让 AI 帮助做 translation。
+
+否则很容易做出一个技术上很炫、但只是在自动化俗套视觉映射的模型。
+
 ---
 
 ## 6. Guardrails
