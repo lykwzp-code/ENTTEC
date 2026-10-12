@@ -324,3 +324,9 @@ AI 帮忙把这句话变成一个可编辑的 starting point：
 - 能不能从 discovery 一直跟到结果？
 
 如果这些都没有，那么对方即使很喜欢你的 idea，这个岗位也可能不是你想要的产品入口。
+---
+
+# 中文版说明
+
+本文件正文已经是中文版，因此不再重复附加同一份内容。  
+对应的英文版本见：[10 — Interview Story (English)](10_INTERVIEW_PITCH_EN.md)。
