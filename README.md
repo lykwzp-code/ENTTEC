@@ -25,6 +25,8 @@ The central product thesis is:
 - [Content, Community & Creator Growth](docs/CONTENT_COMMUNITY_GROWTH.md)
 - [180-Day Roadmap & Metrics](docs/ROADMAP_METRICS_180_DAY_PLAN.md)
 - [Assumptions & Interview Validation Questions](docs/ASSUMPTIONS_AND_VALIDATION.md)
+- [Interview Pitch — 中文版](docs/INTERVIEW_PITCH_ZH.md)
+- [Interview Pitch — English](docs/INTERVIEW_PITCH_EN.md)
 
 ## Current public product facts used as grounding
 
