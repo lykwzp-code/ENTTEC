@@ -57,6 +57,204 @@ A Product Specialist should be able to answer:
 - What happens when resources conflict?
 - Can I stay involved from discovery through post-launch learning?
 
+
+### Eight role-health checks
+
+These eight questions translate “healthy ownership” into concrete organisational conditions.
+
+#### 1. Does the Product Specialist have direct user access?
+
+**Meaning:** Can the role speak directly with real users — musicians, DJs, creators, lighting designers, integrators — rather than receiving all user needs through Sales, Support, distributors or management?
+
+Why it matters:
+
+A second-hand request such as:
+
+> “The customer wants AI lighting.”
+
+may hide a very different underlying problem:
+
+> “I don’t know how to make the second chorus feel different from the first.”
+
+Direct access makes real user discovery possible.
+
+Healthy evidence:
+- regular customer / creator interviews
+- usability sessions
+- direct observation of workflows
+- ability to invite users into product experiments
+
+Weak evidence:
+- user feedback arrives only through Sales / Support summaries
+
+---
+
+#### 2. Does the role own an independent problem space?
+
+**Meaning:** Is there a defined user or product problem that this person is expected to understand and improve over time?
+
+Examples:
+- EMU creator onboarding
+- creator workflow from musical intent to visual expression
+- dance / performance creator use cases
+- a defined EMU + ELM workflow domain
+
+A person can be very busy without owning a problem space.
+
+“Help with demos, answer support questions, coordinate bugs, prepare training” is a task list.
+
+> “Improve the creator journey from first launch to first expressive show”
+
+is a problem space.
+
+Healthy evidence:
+- people know which domain the Product Specialist owns
+- success is measured against outcomes in that domain
+- the role can prioritise within that space
+
+---
+
+#### 3. Can the role run experiments?
+
+**Meaning:** Once a hypothesis appears, can the Product Specialist test it rather than only write a report or feature request?
+
+Experiments could include:
+- 3–5 creator interviews
+- a workflow prototype
+- a limited beta
+- a manual service-assisted test
+- a landing-page test
+- a small content / market pilot
+- a template or onboarding experiment
+
+Without experiment authority, the role can identify problems but cannot create evidence.
+
+Healthy evidence:
+- small experiments can be approved quickly
+- clear success / kill criteria
+- access to users and basic resources
+- learning is allowed before full roadmap commitment
+
+---
+
+#### 4. Is there Engineering capacity?
+
+**Meaning:** Not simply “does the company employ engineers?” but:
+
+> **When a validated product experiment needs Engineering help, is there any capacity allocation mechanism for it?**
+
+A company may encourage ideas while every engineer is already fully occupied by bugs, customer delivery and urgent requests.
+
+Then every idea becomes:
+
+> “Good idea — put it in the backlog.”
+
+Healthy evidence:
+- named Engineering counterpart
+- prototype / discovery capacity
+- a prioritisation mechanism
+- someone who can resolve resource conflicts
+
+---
+
+#### 5. Does the role participate in roadmap discussion?
+
+**Meaning:** Can the Product Specialist bring user evidence into discussions about what should be built, delayed, reduced or rejected?
+
+Participation does not require final decision authority.
+
+It should mean the person can:
+- present evidence
+- recommend priorities
+- discuss trade-offs
+- understand why something is not being built
+- influence scope
+
+A weak version is being informed after the roadmap is already decided and then preparing training or support material.
+
+---
+
+#### 6. Does “broader scope” mean ownership or more support?
+
+This is especially important for a role described as **“not limited to EMU.”**
+
+Good version:
+
+> broader user problems, broader product context, more decision participation
+
+Bad version:
+
+> support EMU + ELM + S-PLAY + hardware + whatever else needs help
+
+Both can be described as “broader scope,” but they create very different career capital.
+
+The key question:
+
+> **Is the role gaining a larger decision surface, or simply a larger support surface?**
+
+---
+
+#### 7. Can the role own a clearer domain after 12 months?
+
+**Meaning:** Even if the role begins broadly, is there a credible path toward a domain where colleagues can say:
+
+> “This is Kai’s area.”
+
+Possible examples:
+- EMU creator experience
+- creator ecosystem / partnerships
+- software product applications
+- APAC product applications
+- a defined feature family or workflow
+
+Growth should not mean only becoming the person who can support more products.
+
+Healthy growth means increasing:
+- domain ownership
+- decision rights
+- product judgement
+- outcome accountability
+
+---
+
+#### 8. Can the role stay involved from discovery to outcome?
+
+**Meaning:** Can the same person remain involved across the full learning loop?
+
+**discovery  
+→ problem definition  
+→ hypothesis  
+→ experiment  
+→ build  
+→ launch  
+→ adoption / feedback  
+→ iteration**
+
+This is where product judgement compounds.
+
+If the role only writes requirements and hands them off, it learns less.
+
+If it sees what actually happened after launch, it can learn:
+- which assumptions were wrong
+- what users actually adopted
+- what should be changed
+- what not to build next time
+
+That creates evidence of real product work, not only product support.
+
+---
+
+### The four dimensions behind the eight questions
+
+The eight checks reduce to four fundamentals:
+
+**Access** — Can I reach real users?  
+**Ownership** — Do I own a problem space?  
+**Resources** — Can I test and build?  
+**Decision & accountability** — Can I influence priorities and stay involved through results?
+
+A strong Product Specialist role should gradually strengthen all four.
+
 ---
 
 ## 3. What the role should not become
@@ -210,6 +408,208 @@ Product Specialist 应该能回答：
 - 我能使用哪些 Engineering / Design / Marketing resource？
 - 资源冲突时谁做决定？
 - 我能否从 discovery 一直跟到 post-launch learning？
+
+
+### 八个岗位健康度检查项
+
+前面的“healthy ownership”可以进一步拆成八个非常具体的组织条件。
+
+#### 1. Product Specialist 有没有 direct user access？
+
+**意思：** 这个岗位能不能直接接触真实用户——音乐人、DJ、creator、lighting designer、integrator——而不是所有需求都必须经过 Sales、Support、经销商或管理层转述？
+
+为什么重要：
+
+一句二手需求：
+
+> “客户想要 AI 灯光。”
+
+真正的问题可能完全不同：
+
+> “我不知道怎样让第二次副歌和第一次有不同的感觉。”
+
+只有 direct user access，才有机会做真正的 user discovery。
+
+健康证据：
+- 定期 creator / customer interview
+- usability session
+- 直接观察真实 workflow
+- 可以邀请用户参加 product experiment
+
+弱证据：
+- 所有用户反馈都只通过 Sales / Support 汇总
+
+---
+
+#### 2. 有没有独立 problem space？
+
+**意思：** 公司有没有一块明确的问题，期待这个人长期理解、改善，并对结果负责？
+
+例如：
+- EMU creator onboarding
+- 从 musical intent 到 visual expression 的 workflow
+- dance / performance creator use case
+- 某个明确的 EMU + ELM workflow domain
+
+一个人可以非常忙，但仍然没有 problem space。
+
+“帮忙做 demo、回答 support、跟 bug、做培训”只是 task list。
+
+> “把 creator 从第一次打开 EMU 到做出第一个有表达力的 show 的体验做得更好”
+
+才是 problem space。
+
+健康证据：
+- 团队知道哪块 domain 是这个 Product Specialist 负责
+- success 会对应这个 domain 的结果
+- 岗位可以在这块空间里做优先级判断
+
+---
+
+#### 3. 能不能做 experiment？
+
+**意思：** 发现一个 hypothesis 以后，能不能真的做小实验验证，而不是只能写报告或 feature request？
+
+Experiment 可以包括：
+- 3–5 个 creator interview
+- workflow prototype
+- limited beta
+- manual service-assisted test
+- landing-page test
+- 小型 content / market pilot
+- template / onboarding experiment
+
+如果没有 experiment 权限，这个岗位最多只能发现问题，却不能创造证据。
+
+健康证据：
+- 小 experiment 可以快速批准
+- 有明确 success / kill criteria
+- 能接触用户和基本资源
+- 允许在 roadmap commitment 之前先学习
+
+---
+
+#### 4. 有没有 Engineering capacity？
+
+**意思：** 不是问“公司有没有工程师”，而是：
+
+> **当一个已经被验证的产品实验需要 Engineering 帮忙时，有没有资源分配机制？**
+
+一家公司可以非常鼓励 idea，但所有 engineer 都已经被 bug、客户项目和紧急需求占满。
+
+那最后每个 idea 都会变成：
+
+> “很好，先放 backlog。”
+
+健康证据：
+- 有明确 Engineering counterpart
+- 有 prototype / discovery capacity
+- 有 priority 机制
+- 资源冲突时有人能做决策
+
+---
+
+#### 5. 会不会参与 roadmap discussion？
+
+**意思：** Product Specialist 能不能把 user evidence 带进“做什么、不做什么、先做什么、砍什么”的讨论？
+
+参与 roadmap 不等于拥有最终拍板权。
+
+至少应该能：
+- 带 evidence
+- 提 priority recommendation
+- 参与 trade-off
+- 知道为什么某些东西不做
+- influence scope
+
+比较弱的版本是：
+
+roadmap 已经定完以后，才通知 Product Specialist 去做培训、support 或 launch material。
+
+---
+
+#### 6. broader scope 是 ownership 还是更多 support？
+
+这对 **“not limited to EMU”** 特别重要。
+
+好的版本：
+
+> 接触更大的用户问题、更完整的产品组合、更深的 product decision
+
+坏的版本：
+
+> EMU、ELM、S-PLAY、hardware 全部都要 support
+
+两个都可以被描述成 “broader scope”，但它们积累的职业资本完全不同。
+
+真正要问的是：
+
+> **这个岗位得到的是更大的 decision surface，还是更大的 support surface？**
+
+---
+
+#### 7. 12 个月以后能不能拥有更明确的 domain？
+
+**意思：** 即使一开始岗位很 broad，一年后有没有可能形成一个别人会说：
+
+> “这块是 Kai 负责的。”
+
+例如：
+- EMU creator experience
+- creator ecosystem / partnership
+- software product applications
+- APAC product applications
+- 某个 feature family / workflow
+
+成长不能只是：
+
+> “现在你能 support 更多产品了。”
+
+真正健康的成长应该增加：
+- domain ownership
+- decision right
+- product judgement
+- outcome accountability
+
+---
+
+#### 8. 能不能从 discovery 一直跟到结果？
+
+**意思：** 同一个人能不能留在完整学习闭环里：
+
+**discovery  
+→ problem definition  
+→ hypothesis  
+→ experiment  
+→ build  
+→ launch  
+→ adoption / feedback  
+→ iteration**
+
+这才是 product judgement 真正累积的地方。
+
+如果岗位只写 requirement，然后交给别人，就很难知道自己的判断到底对不对。
+
+如果能继续看到 launch 后结果，就能学习：
+- 哪些 assumption 错了
+- 用户到底有没有 adoption
+- 下一轮应该怎么改
+- 哪些东西以后不值得做
+
+这样积累的才是 product work evidence，而不仅仅是 product support。
+
+---
+
+### 八个问题背后的四个核心维度
+
+最终可以归纳成四个东西：
+
+**Access** — 我能不能接触真实用户？  
+**Ownership** — 我有没有自己的 problem space？  
+**Resources** — 我能不能真正测试和推动？  
+**Decision & accountability** — 我能不能参与优先级，并一路跟到结果？
+
+一个好的 Product Specialist 岗位，应该让这四个维度逐渐增强。
 
 ---
 
