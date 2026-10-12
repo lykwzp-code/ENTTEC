@@ -144,7 +144,98 @@ This can reveal product needs such as:
 
 ---
 
-## 6. Growth funnel
+## 6. Guangzhou as a Creator-Market Pilot
+
+Guangzhou is a particularly practical place to test this category-expansion hypothesis because ENTTEC already has a China team there, while the city also offers access to creator communities such as:
+
+- dance studios
+- dance crews
+- choreographers
+- livestream / group-livestream teams
+- MCNs and content operators
+- performance-content creators
+- independent musicians and producers
+
+The strategic advantage is not simply geographic convenience.
+
+It is the possibility of creating a **tight local discovery loop**:
+
+**local creator  
+→ EMU trial  
+→ observed workflow  
+→ product insight  
+→ prototype / template  
+→ creator retest**
+
+That is much faster than starting with a broad global research program.
+
+### Suggested first local cohort
+
+A small Guangzhou design-partner group could include:
+
+- 1 dance studio
+- 1 dance crew / choreographer
+- 1 livestream / MCN team
+- 1 independent musician / producer
+- 1 small creator / video-production team
+
+The objective is not statistical representativeness.
+
+It is to expose very different creator workflows early and identify where the same problems repeat.
+
+### Two pilot tracks
+
+#### Pilot A — Creator / Dance
+
+Question:
+
+> **Can someone without professional lighting training create a visually expressive result quickly enough to want to use EMU again?**
+
+Test:
+
+- templates
+- onboarding
+- Quick → Creator progression
+- Music-to-Light controls
+- camera-friendly lighting
+- editing / publishing workflow
+
+#### Pilot B — Livestream / MCN
+
+Question:
+
+> **Can EMU help high-frequency content teams produce more distinctive and repeatable visual environments without adding excessive technical overhead?**
+
+Test:
+
+- fast theme changes
+- repeatability
+- operator learning curve
+- multi-song / multi-session workflow
+- long-session stability
+- template reuse
+- content-team satisfaction
+
+### Why this matters to the Guangzhou office
+
+If the hypothesis works, the Guangzhou team is not only a regional support location.
+
+It can become a **creator-market learning node** for ENTTEC:
+
+- close to high-frequency creators
+- able to run small physical tests
+- able to gather direct user feedback
+- able to validate new creator workflows before broader rollout
+
+A useful internal framing is:
+
+> **Guangzhou as a Creator-Market Pilot City.**
+
+This is a hypothesis to test, not a claim that ENTTEC already uses Guangzhou this way.
+
+---
+
+## 7. Growth funnel
 
 ### 1. Spectacle
 Short-form finished content:
@@ -176,7 +267,7 @@ Creator returns, buys more hardware, or takes on larger work.
 
 ---
 
-## 7. Growth flywheel
+## 8. Growth flywheel
 
 **lower entry barrier  
 → more non-professional creators enter  
@@ -195,7 +286,7 @@ EMU becomes not only a product but an **ecosystem entry point**.
 
 ---
 
-## 8. Brand implication
+## 9. Brand implication
 
 The brand promise can shift from:
 
@@ -211,7 +302,7 @@ It creates a creator-facing front door into it.
 
 ---
 
-## 9. What would validate the category-expansion hypothesis
+## 10. What would validate the category-expansion hypothesis
 
 Strong signals:
 
@@ -234,7 +325,7 @@ Weak signals:
 
 ---
 
-## 10. Metrics
+## 11. Metrics
 
 Do not measure only software revenue or video views.
 
@@ -268,7 +359,7 @@ Track:
 
 ---
 
-## 11. Strategic sentence
+## 12. Strategic sentence
 
 > **EMU can expand ENTTEC’s market by creating new lighting users, not only by competing for existing ones.**
 
@@ -420,7 +511,98 @@ Track:
 
 ---
 
-## 6. Growth funnel
+## 6. 广州作为 Creator-Market Pilot
+
+广州特别适合作为这套 category-expansion hypothesis 的现实验证入口，因为 ENTTEC 中国团队本身就在广州，同时本地也容易接触到不同类型的 creator community，例如：
+
+- 舞蹈室
+- 舞团
+- choreographer
+- 团播 / 直播团队
+- MCN 与内容运营团队
+- performance-content creator
+- 独立音乐人 / producer
+
+这里的价值不只是“离得近”。
+
+真正的优势是可以形成一个非常紧的本地 discovery loop：
+
+**本地 creator  
+→ EMU trial  
+→ 观察真实 workflow  
+→ product insight  
+→ prototype / template  
+→ creator 再测试**
+
+这比一开始做一个很大的全球 research program 更快。
+
+### 第一批本地 design partner 可以怎么组成
+
+可以先找一个很小的广州 cohort：
+
+- 1 个舞蹈室
+- 1 个舞团 / choreographer
+- 1 个团播 / MCN 团队
+- 1 个独立音乐人 / producer
+- 1 个小型 creator / 视频制作团队
+
+目标不是统计意义上的代表性。
+
+而是尽早接触不同 workflow，然后看哪些问题会跨用户重复出现。
+
+### 两条 pilot 可以分开跑
+
+#### Pilot A — Creator / Dance
+
+核心问题：
+
+> **一个完全没有专业灯光训练的人，能不能足够快地做出有视觉表达力的结果，并愿意继续使用 EMU？**
+
+测试：
+
+- template
+- onboarding
+- Quick → Creator progression
+- Music-to-Light control
+- camera-friendly lighting
+- 剪辑 / 发布 workflow
+
+#### Pilot B — Livestream / MCN
+
+核心问题：
+
+> **EMU 能不能帮助高频内容团队更快做出有辨识度、可重复的视觉环境，同时不增加太多技术负担？**
+
+测试：
+
+- 快速换主题
+- repeatability
+- operator learning curve
+- 多首歌 / 多场 session workflow
+- 长时间稳定运行
+- template reuse
+- content-team satisfaction
+
+### 这对广州 office 的意义
+
+如果 hypothesis 成立，广州团队就不只是一个区域 support location。
+
+它还可以成为 ENTTEC 的一个 **creator-market learning node**：
+
+- 离高频 creator 很近
+- 可以快速做真实物理场景 test
+- 可以拿到 direct user feedback
+- 可以在扩大 rollout 前先验证 creator workflow
+
+一个很适合内部讨论的说法是：
+
+> **Guangzhou as a Creator-Market Pilot City。**
+
+这只是一个需要验证的 hypothesis，不代表 ENTTEC 现在已经这样定义广州 office。
+
+---
+
+## 7. Growth funnel
 
 ### 1. Spectacle
 短视频成片：
@@ -452,7 +634,7 @@ Creator 发布：
 
 ---
 
-## 7. Growth flywheel
+## 8. Growth flywheel
 
 **降低门槛  
 → 更多非专业 creator 进入  
@@ -471,7 +653,7 @@ EMU 因此不仅是一个软件，也成为 **ecosystem entry point**。
 
 ---
 
-## 8. 品牌含义
+## 9. 品牌含义
 
 品牌承诺可以从：
 
@@ -487,7 +669,7 @@ EMU 因此不仅是一个软件，也成为 **ecosystem entry point**。
 
 ---
 
-## 9. 什么能证明 category expansion 成立
+## 10. 什么能证明 category expansion 成立
 
 强信号：
 
@@ -510,7 +692,7 @@ EMU 因此不仅是一个软件，也成为 **ecosystem entry point**。
 
 ---
 
-## 10. Metrics
+## 11. Metrics
 
 不能只看 software revenue 或视频 views。
 
@@ -542,6 +724,6 @@ EMU 因此不仅是一个软件，也成为 **ecosystem entry point**。
 
 ---
 
-## 11. 战略一句话
+## 12. 战略一句话
 
 > **EMU 可以通过创造新的灯光用户来扩大 ENTTEC 市场，而不仅仅是和竞争对手争夺现有用户。**
