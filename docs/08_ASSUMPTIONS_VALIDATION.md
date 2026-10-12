@@ -59,8 +59,14 @@ None of these should be presented as existing ENTTEC commitments.
 ### Ownership
 > What would I personally own in this role rather than support?
 
+### Independent problem space
+> Is there a specific user journey, workflow or product problem that this role would be expected to own and improve over time?
+
 ### Product decision participation
 > Could you walk me through a recent product decision a Product Specialist influenced, and who made the final call?
+
+### Roadmap participation
+> At what stage would this role join roadmap or prioritisation discussions — before priorities are decided, or mainly after decisions are made?
 
 ### Scope
 > Does “not limited to EMU” mainly mean supporting more products, or taking broader product responsibility across software and hardware applications?
@@ -76,6 +82,9 @@ None of these should be presented as existing ENTTEC commitments.
 
 ### Growth
 > What would you expect this person to own independently after the first year?
+
+### Discovery-to-outcome continuity
+> If this role identifies and validates a user problem, would the same person normally stay involved through implementation, launch and post-launch learning?
 
 
 ## 3A. What these role questions are actually testing
@@ -138,68 +147,6 @@ A practical summary:
 > Decision & accountability tell me whether I can build product judgement.**
 
 
-## 3A. 这些岗位问题到底在测什么
-
-这些不是泛泛的“面试反问”。
-
-它们合起来是在验证四件事：
-
-**Access、Ownership、Resources、Decision & Accountability。**
-
-### Direct user access
-想确认你能不能直接听到、看到真实用户，而不是永远接受 Sales / Support 过滤后的需求。
-
-**强信号：** 有定期 interview、user session、customer visit、beta group。  
-**弱信号：** “Sales 会告诉你客户需要什么。”
-
-### Independent problem space
-想确认你有没有一块持续负责的产品问题，而不是每天接不同杂事。
-
-**强信号：** “你会负责 creator onboarding / 某个 workflow / 某个 product domain。”  
-**弱信号：** “哪里需要你就帮哪里。”
-
-### Experiment authority
-想确认你能不能把 hypothesis 变成 test。
-
-**强信号：** 可以做小 pilot、prototype、user test。  
-**弱信号：** 所有 idea 都只能等正式 roadmap slot。
-
-### Engineering capacity
-想确认已经被验证的 idea 有没有实际实现资源。
-
-**强信号：** 有明确 Engineering partner、prototype / sprint capacity、priority process。  
-**弱信号：** “Engineering 平时很忙，不过你可以提需求。”
-
-### Roadmap participation
-想确认你能不能 influence what gets built，而不是 roadmap 定完后再做 support。
-
-**强信号：** Product Specialist 可以带 evidence 进入 prioritisation discussion。  
-**弱信号：** roadmap 在别处决定，你只负责 launch / training / enablement。
-
-### Broader scope：ownership 还是 support
-因为 “not limited to EMU” 可能代表完全不同的两种工作。
-
-**好的含义：** 更大的 product responsibility 与 decision participation。  
-**坏的含义：** 更多产品需要 reactive support。
-
-### 12-month domain ownership
-想确认岗位是不是会随着时间形成一块真正属于你的责任领域。
-
-**强信号：** 一年后有明确 domain / feature family / user journey 可以 ownership。  
-**弱信号：** 成长只是变成最熟所有产品的 support generalist。
-
-### Discovery-to-outcome continuity
-想确认你最终能不能知道自己的产品判断到底对不对。
-
-**强信号：** 从 discovery 一直跟到 launch、adoption 和 iteration。  
-**弱信号：** 收需求、交出去，然后马上进入下一单。
-
-可以压缩成一句：
-
-> **Access 决定我能不能学到真实问题；  
-> Ownership 决定我能不能持续深入；  
-> Resources 决定我能不能行动；  
-> Decision & accountability 决定我能不能真正积累 product judgement。**
 
 ---
 
@@ -339,8 +286,14 @@ The goal is to learn whether this is the kind of environment where the strategy 
 ### Ownership
 > What would I personally own in this role rather than support?
 
+### Independent problem space
+> Is there a specific user journey, workflow or product problem that this role would be expected to own and improve over time?
+
 ### Product decision participation
 > Could you walk me through a recent product decision a Product Specialist influenced, and who made the final call?
+
+### Roadmap participation
+> At what stage would this role join roadmap or prioritisation discussions — before priorities are decided, or mainly after decisions are made?
 
 ### Scope
 > Does “not limited to EMU” mainly mean supporting more products, or taking broader product responsibility across software and hardware applications?
@@ -356,6 +309,72 @@ The goal is to learn whether this is the kind of environment where the strategy 
 
 ### Growth
 > What would you expect this person to own independently after the first year?
+
+### Discovery-to-outcome continuity
+> If this role identifies and validates a user problem, would the same person normally stay involved through implementation, launch and post-launch learning?
+
+## 3A. 这些岗位问题到底在测什么
+
+这些不是泛泛的“面试反问”。
+
+它们合起来是在验证四件事：
+
+**Access、Ownership、Resources、Decision & Accountability。**
+
+### Direct user access
+想确认你能不能直接听到、看到真实用户，而不是永远接受 Sales / Support 过滤后的需求。
+
+**强信号：** 有定期 interview、user session、customer visit、beta group。  
+**弱信号：** “Sales 会告诉你客户需要什么。”
+
+### Independent problem space
+想确认你有没有一块持续负责的产品问题，而不是每天接不同杂事。
+
+**强信号：** “你会负责 creator onboarding / 某个 workflow / 某个 product domain。”  
+**弱信号：** “哪里需要你就帮哪里。”
+
+### Experiment authority
+想确认你能不能把 hypothesis 变成 test。
+
+**强信号：** 可以做小 pilot、prototype、user test。  
+**弱信号：** 所有 idea 都只能等正式 roadmap slot。
+
+### Engineering capacity
+想确认已经被验证的 idea 有没有实际实现资源。
+
+**强信号：** 有明确 Engineering partner、prototype / sprint capacity、priority process。  
+**弱信号：** “Engineering 平时很忙，不过你可以提需求。”
+
+### Roadmap participation
+想确认你能不能 influence what gets built，而不是 roadmap 定完后再做 support。
+
+**强信号：** Product Specialist 可以带 evidence 进入 prioritisation discussion。  
+**弱信号：** roadmap 在别处决定，你只负责 launch / training / enablement。
+
+### Broader scope：ownership 还是 support
+因为 “not limited to EMU” 可能代表完全不同的两种工作。
+
+**好的含义：** 更大的 product responsibility 与 decision participation。  
+**坏的含义：** 更多产品需要 reactive support。
+
+### 12-month domain ownership
+想确认岗位是不是会随着时间形成一块真正属于你的责任领域。
+
+**强信号：** 一年后有明确 domain / feature family / user journey 可以 ownership。  
+**弱信号：** 成长只是变成最熟所有产品的 support generalist。
+
+### Discovery-to-outcome continuity
+想确认你最终能不能知道自己的产品判断到底对不对。
+
+**强信号：** 从 discovery 一直跟到 launch、adoption 和 iteration。  
+**弱信号：** 收需求、交出去，然后马上进入下一单。
+
+可以压缩成一句：
+
+> **Access 决定我能不能学到真实问题；  
+> Ownership 决定我能不能持续深入；  
+> Resources 决定我能不能行动；  
+> Decision & accountability 决定我能不能真正积累 product judgement。**
 
 ---
 
