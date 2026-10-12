@@ -31,6 +31,93 @@ Ask:
 
 The Product Specialist’s job is to translate those answers into a testable product problem.
 
+## 1A. Music-to-Light Visual Grammar research session
+
+Artist Lab should not only ask creators for feature requests. It can also be used to research a more fundamental question:
+
+> **How does a musician break down their own music, and what visual role should each musical element play?**
+
+This is deliberately different from technical stem separation.
+
+The Product Specialist should not begin by saying:
+
+> “Here are the drums, bass, vocals and synths. What colour should each one be?”
+
+Instead, begin from the artist’s own perception:
+
+> “When you hear this song, what are the elements you are actually paying attention to, and what is each one doing to the listener?”
+
+### Suggested workshop flow
+
+#### Step 1 — Artist-led song decomposition
+Use one real song.
+
+Ask the artist to mark:
+- intro / verse / pre-chorus / chorus / bridge / outro
+- important entrances and exits
+- repeated sections that should feel different
+- musical elements they personally consider important
+
+The categories should come from the creator where possible.
+
+#### Step 2 — Define the role of each element
+For each important element, ask:
+
+- What is this doing emotionally?
+- Is it creating weight, motion, tension, intimacy, release, instability, emptiness or something else?
+- Is it foreground or background?
+- Should the audience consciously notice it?
+
+#### Step 3 — Define the visual relationship
+Ask:
+
+- Should light follow this element directly?
+- Should it influence space rather than brightness?
+- Should it appear only at transitions?
+- Should it stay visually silent?
+- Should it be synchronized, delayed, drifting or in counterpoint?
+
+#### Step 4 — Translate into visual primitives
+Together define possible changes in:
+
+- intensity
+- colour
+- spatial width
+- focus
+- movement
+- density
+- transition
+- repetition / variation
+- stillness
+
+#### Step 5 — Build and compare
+Create multiple small versions where useful.
+
+Ask the artist:
+- Which version feels most like the song?
+- Which one is technically impressive but artistically wrong?
+- What is missing from EMU today?
+- What would make this workflow easier next time?
+
+#### Step 6 — Capture the grammar
+Update the Artist Intent Card with:
+
+- musical element
+- artistic role
+- desired visual behaviour
+- EMU implementation
+- limitation / workaround
+- artist evaluation
+
+Over time, the team can compare these cards across creators and distinguish:
+
+- reusable visual primitives
+- genre patterns
+- creator-specific preferences
+- genuine product opportunities
+
+This research is valuable even if no new feature is built immediately.
+
 ---
 
 ## 2. Pilot structure
@@ -255,6 +342,93 @@ Artist Lab 是内容冷启动被验证以后更深入的一层。
 - 如果不用灯光术语，你会怎样描述你想要的效果？
 
 Product Specialist 的任务，就是把这些回答转化成可验证的产品问题。
+
+## 1A. Music-to-Light Visual Grammar 共创研究
+
+Artist Lab 不应该只用来收集 feature request，它还可以研究一个更基础的问题：
+
+> **音乐人自己到底怎样拆解自己的音乐？每一个音乐元素在视觉上又应该承担什么角色？**
+
+这和技术上的 stem separation 不一样。
+
+Product Specialist 不应该一开始就说：
+
+> “这里是 drums、bass、vocals、synths，你觉得每个应该是什么颜色？”
+
+而应该先从音乐人自己的感知出发：
+
+> “你自己听这首歌时，真正注意的是哪些元素？每一个元素到底在对听众做什么？”
+
+### 建议的 workshop 流程
+
+#### Step 1 — 让音乐人自己拆歌
+直接使用一首真实作品。
+
+让音乐人标记：
+- intro / verse / pre-chorus / chorus / bridge / outro
+- 重要元素的进入与退出
+- 哪些重复段落视觉上应该不同
+- ta 自己认为真正重要的音乐元素
+
+分类尽量先来自 creator，而不是产品团队预设。
+
+#### Step 2 — 定义每个元素的作用
+对每一个重要元素继续问：
+
+- 它在情绪上到底做什么？
+- 它是在制造重量、运动、紧张、亲密、释放、不稳定、空白，还是别的东西？
+- 它是 foreground 还是 background？
+- 观众是否应该明确注意到它？
+
+#### Step 3 — 定义它和光的关系
+继续问：
+
+- 灯光应该直接跟这个元素吗？
+- 它更应该影响空间，而不是 brightness 吗？
+- 它只应该在 transition 出现吗？
+- 它视觉上应该保持沉默吗？
+- 它应该 synchronized、delayed、drifting，还是 counterpoint？
+
+#### Step 4 — 翻译成 visual primitives
+一起定义可能发生变化的维度：
+
+- intensity
+- colour
+- spatial width
+- focus
+- movement
+- density
+- transition
+- repetition / variation
+- stillness
+
+#### Step 5 — 做出来并比较
+在有价值时做几个不同小版本。
+
+问音乐人：
+- 哪一个最像这首歌？
+- 哪一个虽然技术上很炫，但艺术上完全不对？
+- EMU 当前缺了什么？
+- 下一次怎样才能更快做出你真正想要的东西？
+
+#### Step 6 — 把 grammar 记录下来
+把 Artist Intent Card 扩展成：
+
+- musical element
+- artistic role
+- desired visual behaviour
+- EMU implementation
+- limitation / workaround
+- artist evaluation
+
+积累到多位 creator 后，就可以开始区分：
+
+- reusable visual primitives
+- genre patterns
+- creator-specific preferences
+- 真正值得产品化的机会
+
+即使最后没有立刻做出新 feature，这个 research 本身也有价值。
 
 ---
 
