@@ -23,6 +23,7 @@ The central product thesis is:
 - [EMU Artist Lab](docs/EMU_ARTIST_LAB.md)
 - [AI Creative Intelligence Layer](docs/AI_CREATIVE_INTELLIGENCE.md)
 - [Content, Community & Creator Growth](docs/CONTENT_COMMUNITY_GROWTH.md)
+- [EMU Creator Market Bootstrap Strategy](docs/EMU_CREATOR_MARKET_BOOTSTRAP_STRATEGY.md)
 - [180-Day Roadmap & Metrics](docs/ROADMAP_METRICS_180_DAY_PLAN.md)
 - [Assumptions & Interview Validation Questions](docs/ASSUMPTIONS_AND_VALIDATION.md)
 - [Interview Pitch — 中文版](docs/INTERVIEW_PITCH_ZH.md)
