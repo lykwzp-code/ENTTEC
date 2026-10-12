@@ -75,6 +75,79 @@ It is:
 
 > **“What relationship between sound, movement, space and light serves what this creator is trying to express?”**
 
+## 3A. Research hypothesis: build a Music-to-Light Visual Grammar with musicians
+
+A key research direction is to work directly with musicians to understand **how they themselves decompose a piece of music**, rather than assuming that audio analysis alone tells us what matters.
+
+The goal is not simply to separate a track into technical stems such as:
+
+- drums
+- bass
+- vocals
+- strings
+- synths
+
+The more important question is:
+
+> **What role does each element play in the artist’s own expression, and how — if at all — should that role become visible?**
+
+For one artist, bass may represent weight and pressure.  
+For another, bass may create motion or sensuality.  
+A vocal entrance may need a visual focus in one song, but deliberate visual restraint in another.
+
+That means the research should capture both:
+
+**musical element → artistic role → desired visual relationship**
+
+and not assume a universal mapping such as:
+
+**bass = red / kick = flash / vocal = spotlight**
+
+### Research questions
+
+With each artist, explore:
+
+- Which musical elements do you personally hear as the “main characters” of this song?
+- Which elements carry rhythm, tension, atmosphere, intimacy or release?
+- Which elements should lead the visual behaviour?
+- Which elements should remain visually quiet?
+- Which moments should synchronize exactly with music?
+- Which moments should drift, delay, contrast or stay still?
+- Which repeated sections should look different even if the music is structurally similar?
+- Which visual changes would misrepresent the song?
+
+### Possible visual primitives
+
+The aim is to discover a reusable visual vocabulary, for example:
+
+- brightness / darkness
+- colour and colour transition
+- spatial focus
+- width / compression
+- movement
+- density
+- rhythm
+- transition speed
+- silhouette / reveal
+- foreground / background emphasis
+- synchronization / delay / counterpoint / drift
+- repetition / variation
+- stillness / silence
+
+### Research outputs
+
+Over multiple artist collaborations, this work could produce:
+
+1. **Musical-role vocabulary** — how creators describe what different elements are doing emotionally or structurally.
+2. **Visual-grammar vocabulary** — a creator-friendly language for light, space and timing.
+3. **Relationship patterns** — recurring ways artists want sound and light to interact.
+4. **Artist-specific visual profiles** — because not every creator should map the same musical element in the same way.
+5. **Product opportunities** — where EMU can make these translations easier without removing creative control.
+
+The objective is not to discover one “correct” mapping from music to light.
+
+It is to build a product language flexible enough to express **different artists’ intentions**.
+
 ---
 
 ## 4. The north-star principle
@@ -185,6 +258,79 @@ The rest of the strategy is designed to test that hypothesis cheaply and progres
 而是：
 
 > **“声音、动作、空间和光之间应该建立什么关系，才能服务于这个创作者真正想表达的东西？”**
+
+## 3A. Research hypothesis：和音乐人一起建立 Music-to-Light Visual Grammar
+
+这里有一个很重要的 research direction：直接和音乐人合作，去理解**他们自己是怎样拆解一首音乐的**，而不是先假设 audio analysis 已经告诉我们什么最重要。
+
+目标不只是把音乐技术性地拆成：
+
+- drums
+- bass
+- vocals
+- strings
+- synths
+
+更重要的问题是：
+
+> **这些元素在音乐人自己的表达里分别承担什么角色？这些角色又应该怎样——或者是否应该——被视觉化？**
+
+对一个音乐人来说，bass 可能代表重量和压迫感。  
+对另一个音乐人来说，bass 可能代表流动、身体感或性感。  
+某首歌里 vocal 一进入就需要视觉聚焦，另一首歌里人声出现时反而应该让光更克制。
+
+所以真正需要研究的是：
+
+**musical element → artistic role → desired visual relationship**
+
+而不是预设一个万能映射：
+
+**bass = 红色 / kick = 闪光 / vocal = 聚光灯**
+
+### 和音乐人一起研究的问题
+
+每次合作可以问：
+
+- 你自己觉得这首歌里的“主角元素”是什么？
+- 哪些元素负责 rhythm、tension、atmosphere、intimacy 或 release？
+- 哪些元素应该主导视觉变化？
+- 哪些元素虽然重要，但视觉上反而应该保持安静？
+- 哪些时刻应该精确同步？
+- 哪些时刻应该延迟、漂移、对位或完全不动？
+- 哪些重复段落虽然音乐结构类似，但视觉上应该明显不同？
+- 哪种灯光变化会让你觉得“这根本不是这首歌”？
+
+### 可以逐渐整理出的 visual primitives
+
+最终希望形成一种创作者也能使用的视觉语言，例如：
+
+- brightness / darkness
+- colour 与 colour transition
+- spatial focus
+- width / compression
+- movement
+- density
+- rhythm
+- transition speed
+- silhouette / reveal
+- foreground / background emphasis
+- synchronization / delay / counterpoint / drift
+- repetition / variation
+- stillness / silence
+
+### 研究输出
+
+经过多位音乐人的共创，可以逐渐形成：
+
+1. **Musical-role vocabulary** —— 音乐人怎样描述不同音乐元素在结构和情绪上的作用。
+2. **Visual-grammar vocabulary** —— 一套创作者友好的光、空间、时间表达语言。
+3. **Relationship patterns** —— 音乐人与光之间反复出现的互动关系。
+4. **Artist-specific visual profiles** —— 因为不同音乐人不应该用同一套固定映射。
+5. **Product opportunities** —— EMU 在哪些地方可以帮助完成这种翻译，同时不夺走创作控制权。
+
+目标不是寻找一个“音乐应该怎样变成灯光”的标准答案。
+
+真正想建立的是一套足够灵活的产品语言，让**不同音乐人的意图都能被表达出来**。
 
 ---
 
