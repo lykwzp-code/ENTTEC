@@ -44,12 +44,25 @@ Method:
 ## Days 31–60 — Discover
 
 ### Creator research
+Start with a small **Guangzhou creator cohort** where direct access is practical.
+
 Interview:
 - musicians
 - dance creators
+- dance studios
+- dance crews / choreographers
+- livestream / group-livestream teams
+- MCNs / content operators
 - small creative teams
 - existing EMU users
 - people who currently do not use lighting tools
+
+A useful first design-partner mix could be:
+- 1 dance studio
+- 1 dance crew / choreographer
+- 1 livestream / MCN team
+- 1 independent musician / producer
+- 1 small creator / video-production team
 
 Questions:
 - what outcome do they want?
@@ -95,11 +108,16 @@ Measure:
 - confusion points
 
 ### Market experiment
-Run 2–3 rights-cleared Reimagined in Light pilots.
+Run 2–3 rights-cleared Reimagined in Light pilots, preferably using the Guangzhou cohort so the team can observe the full workflow directly.
 
 Include:
 - at least one dance / performance creator
+- at least one local studio / content-team use case where practical
 - clear path into template / tutorial / EMU trial
+
+Where possible, separate:
+- **Creator / Dance pilot** — test low-friction expressive creation
+- **Livestream / MCN pilot** — test repeatability, fast theme changes and operator learning
 
 ### Research experiment
 Run first Music-to-Light Visual Grammar session with creators.
@@ -119,8 +137,10 @@ If early evidence is strong:
 ### Growth
 - repeat content format
 - test studio / dance creator demand
+- test livestream / MCN demand
 - measure qualified creator acquisition
 - test starter setup / hardware attachment
+- formalise a small Guangzhou creator panel if repeated local demand appears
 
 ### Co-creation
 - launch small Artist Lab pilot
@@ -233,12 +253,25 @@ A good outcome may include killing weak ideas.
 ## Days 31–60 — Discover
 
 ### Creator research
+优先从一个小规模 **广州 creator cohort** 开始，因为 direct access 最容易建立。
+
 访谈：
 - 音乐人
 - dance creator
+- 舞蹈室
+- 舞团 / choreographer
+- 团播 / 直播团队
+- MCN / 内容运营团队
 - 小型创作团队
 - existing EMU user
 - 当前完全不用灯控工具的人
+
+第一批 design partner 可以先包含：
+- 1 个舞蹈室
+- 1 个舞团 / choreographer
+- 1 个团播 / MCN 团队
+- 1 个独立音乐人 / producer
+- 1 个小型 creator / 视频制作团队
 
 问：
 - 他们真正想得到什么 outcome？
@@ -284,11 +317,16 @@ A good outcome may include killing weak ideas.
 - confusion point
 
 ### Market experiment
-做 2–3 个 rights-cleared Reimagined in Light pilot。
+做 2–3 个 rights-cleared Reimagined in Light pilot，优先使用广州本地 cohort，这样团队可以直接观察完整 workflow。
 
 包含：
 - 至少一个 dance / performance creator
+- 在可行时加入一个本地 studio / content-team use case
 - 清晰通向 template / tutorial / EMU trial 的路径
+
+尽量区分：
+- **Creator / Dance pilot** —— 测低门槛 expressive creation
+- **Livestream / MCN pilot** —— 测 repeatability、快速换主题和 operator learning
 
 ### Research experiment
 做第一轮 Music-to-Light Visual Grammar 共创。
@@ -308,8 +346,10 @@ A good outcome may include killing weak ideas.
 ### Growth
 - 重复 content format
 - 测 studio / dance creator demand
+- 测 livestream / MCN demand
 - 测 qualified creator acquisition
 - 测 starter setup / hardware attachment
+- 如果本地 demand 重复出现，建立一个小型广州 creator panel
 
 ### Co-creation
 - 启动小规模 Artist Lab
