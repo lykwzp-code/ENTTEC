@@ -183,6 +183,21 @@ The objective is not statistical representativeness.
 
 It is to expose very different creator workflows early and identify where the same problems repeat.
 
+### Visual concept: before / after livestream lighting
+
+![Guangzhou livestream team — before / after lighting concept](../assets/images/guangzhou-livestream-before-after-lighting-concept.png)
+
+**Figure — Guangzhou Livestream Team: Lighting Upgrade Concept.**  
+Illustrative before/after mock showing how a creator-facing ENTTEC-style lighting workflow could add subject separation, depth and visual identity to a typical group-livestream setup. The concept is intended for product and market discovery only; it is **not** a photograph of an actual ENTTEC deployment and does not claim that the shown account or team uses ENTTEC products.
+
+The point of the mock is to make the market hypothesis tangible:
+
+- many livestream teams already invest in styling, makeup, choreography, camera framing and set design
+- lighting can still remain visually flat or purely functional
+- a lower-friction creator workflow could help small teams build more dimensional, repeatable and distinctive looks without requiring a full professional lighting department for every session
+
+> **Rights note:** the source screenshot is a third-party livestream reference used here as an illustrative concept. Permission / licensing should be confirmed before external commercial reuse.
+
 ### Two pilot tracks
 
 #### Pilot A — Creator / Dance
@@ -549,6 +564,21 @@ Track:
 目标不是统计意义上的代表性。
 
 而是尽早接触不同 workflow，然后看哪些问题会跨用户重复出现。
+
+### 视觉概念：团播打光 Before / After
+
+![广州团播团队灯光升级前后概念图](../assets/images/guangzhou-livestream-before-after-lighting-concept.png)
+
+**图示 — 广州团播团队灯光升级概念。**  
+这是一个概念性的 before/after mock，用来说明 creator-facing 的 ENTTEC-style lighting workflow 可能如何通过更明确的主光、补光、轮廓光和背景层次，让典型团播画面获得更好的主体分离度、立体感和视觉辨识度。本图仅用于产品与市场发现思路，**并非真实 ENTTEC 项目**，也不代表图中账号或团队正在使用 ENTTEC 产品。
+
+这个 mock 的价值是把 market hypothesis 变得直观：
+
+- 很多团播团队已经在妆造、服装、舞蹈、机位和场景上投入很多
+- 但灯光有时仍然偏“平”或只是满足基础照明
+- 更低门槛的 creator workflow，有机会让小团队自己建立更有层次、可重复、可识别的视觉风格，而不必每场都依赖完整专业灯光团队
+
+> **版权 / 权利说明：** 原始截图来自第三方直播画面，这里仅作为概念参考。若用于对外商业传播，应另行确认源图及相关素材的授权。
 
 ### 两条 pilot 可以分开跑
 
