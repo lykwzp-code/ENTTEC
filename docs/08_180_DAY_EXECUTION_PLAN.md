@@ -119,6 +119,21 @@ Where possible, separate:
 - **Creator / Dance pilot** — test low-friction expressive creation
 - **Livestream / MCN pilot** — test repeatability, fast theme changes and operator learning
 
+### Visual prototype for local partner conversations
+
+![Guangzhou livestream team — before / after lighting concept](../assets/images/guangzhou-livestream-before-after-lighting-concept.png)
+
+This mock can be used in early conversations with Guangzhou dance studios, livestream teams and MCNs to make the value proposition concrete before a full pilot exists.
+
+It is intentionally framed as an **illustrative concept, not a proven production result**.
+
+Use it to ask:
+- Would this degree of visual separation / dimensionality matter to your content?
+- Would your operators want to reproduce and vary this look themselves?
+- How much setup time would be acceptable?
+- Would reusable lighting templates have commercial value across multiple sessions?
+- What would make this too difficult to use repeatedly?
+
 ### Research experiment
 Run first Music-to-Light Visual Grammar session with creators.
 
@@ -327,6 +342,23 @@ A good outcome may include killing weak ideas.
 尽量区分：
 - **Creator / Dance pilot** —— 测低门槛 expressive creation
 - **Livestream / MCN pilot** —— 测 repeatability、快速换主题和 operator learning
+
+### 本地合作沟通用的视觉原型
+
+![广州团播团队灯光升级前后概念图](../assets/images/guangzhou-livestream-before-after-lighting-concept.png)
+
+这个 mock 可以用于和广州本地舞蹈室、团播团队、MCN 做第一轮交流，在正式 pilot 还没有跑起来以前，把价值主张先变成一个容易理解的视觉例子。
+
+它必须明确被描述成：
+
+> **illustrative concept，而不是已经被验证的 production result。**
+
+可以借此直接问：
+- 这种主体分离度和立体感对你们内容有没有真实价值？
+- 运营人员会不会希望自己复用、修改这种视觉效果？
+- 可以接受多少 setup time？
+- 可复用 lighting template 能不能跨多场直播产生商业价值？
+- 什么因素会让这个 workflow 难以高频使用？
 
 ### Research experiment
 做第一轮 Music-to-Light Visual Grammar 共创。
