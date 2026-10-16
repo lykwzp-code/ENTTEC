@@ -1,6 +1,6 @@
 # 07 — Project Validation Roadmap (Proposed)
 
-This is a **product-project research plan**, not a candidate onboarding plan or ENTTEC-approved launch commitment.
+This is an **independent product research proposal**. It is not an ENTTEC-approved launch plan or a committed implementation schedule.
 
 ## Goal
 
