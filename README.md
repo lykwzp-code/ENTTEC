@@ -1,323 +1,96 @@
-# ENTTEC Creator Product Strategy
+# ENTTEC — EMU / ELM Product Concepts
 
-An independent product-strategy portfolio built around one question:
+An independent concept portfolio exploring how expressive lighting could become easier to create, more accessible to individuals and small teams, and more useful across ENTTEC's software and hardware ecosystem.
 
-> **How can ENTTEC make expressive lighting accessible to far more creators, then help the strongest creator ideas grow into professional-scale products and systems?**
+> **Project hypothesis, not an official ENTTEC roadmap.** The ideas below are proposals to research, prototype and validate. No product, feature, partnership or rollout is represented as approved by ENTTEC.
 
-> **Status:** interview / product-thinking work.  
-> This repository is **not** an official ENTTEC roadmap. Published facts, product hypotheses and interview unknowns are kept separate.
+## North-star question
 
----
+**How can creators turn music and artistic intent into editable, physical lighting experiences without losing the depth required for advanced work?**
 
-## The complete story
+The working strategy links product, market and ecosystem:
 
-This repository is designed to tell one continuous story.
+**creative intent → EMU creative workflow → creator adoption → hardware progression → selected ELM / professional applications**
 
-### 1. Start from the creator problem
+## Project chapters
 
-Light should not merely react to music. It can participate in artistic expression.
+1. [Product Thesis — From Artistic Intent to Light](docs/01_PRODUCT_THESIS.md)  
+   Why sound-to-light is not the same as visual artistic expression; Music-to-Light Visual Grammar.
 
-A creator may know exactly what they want the audience to feel, but still struggle to translate that intent into lighting logic and control parameters.
+2. [EMU Creator Product Model](docs/02_EMU_CREATOR_PRODUCT_MODEL.md)  
+   Progressive complexity: Quick / Template → Creator → Advanced; editable templates; potential CapCut/剪映 workflow handoff.
 
-**Core gap:**
+3. [Portfolio & User Ladder](docs/03_PORTFOLIO_AND_USER_LADDER.md)  
+   Creator → Prosumer → Professional; EMU, ENTTEC hardware, ELM and deployment products.
 
-**creative intent → visual language → executable lighting**
+4. [Category Expansion & Growth](docs/04_CATEGORY_EXPANSION_GROWTH.md)  
+   New creator segments, Reimagined in Light, dance studios, K-pop cover creators, livestream/MCN use cases and the Guangzhou pilot.
 
-[Read: 01 — Product Thesis](docs/01_PRODUCT_THESIS.md)
+5. [Artist Lab & Community Co-Creation](docs/05_ARTIST_LAB_COMMUNITY.md)  
+   Work with musicians on their own creative language; build, test, learn and share; return episodes.
 
-### 2. Redesign the EMU experience around progressive complexity
+6. [AI as a Creative Translator](docs/06_AI_CREATIVE_TRANSLATOR.md)  
+   An optional, editable intent-to-light layer **only if** real user research establishes the need.
 
-The product opportunity is not to remove professional capability. It is to make the first step dramatically easier while preserving depth.
+7. [Project Validation Roadmap](docs/07_PROJECT_VALIDATION_ROADMAP.md)  
+   Hypothesis-led research and pilot sequence; roles, gates, outputs and metrics for the proposed project.
 
-A working product philosophy:
+8. [Product Hypotheses & Evidence](docs/08_PRODUCT_HYPOTHESES_AND_METRICS.md)  
+   What success would look like, which assumptions are unproven, and how to distinguish a good video from genuine product demand.
 
-> **Easy to start, deep enough to grow with the creator.**
+## Core product principles
 
-EMU can support three levels inside the same project:
+**Easy to start, deep enough to grow with the creator.** Beginners should achieve a useful result quickly; advanced musicians and lighting users should retain editability and precision.
 
-- **Quick / Template** — immediate results with low technical knowledge
-- **Creator** — edit musical sections, visual relationships and expressive intent
-- **Advanced** — retain detailed lighting, MIDI, fixture, automation and professional controls
+**Creator intent before automatic mapping.** The same bassline, vocal or beat does not imply a universal visual expression.
 
-The analogy is not “copy CapCut.” It is the same creator-tool philosophy: let people start before they are experts, then reveal more control as they grow.
+**Build with artists, not just for artists.** Co-creation is product research, not only endorsement.
 
-[Read: 02 — EMU Creator Product Model](docs/02_EMU_CREATOR_PRODUCT_MODEL.md)
+**EMU and ELM have distinct roles.** EMU may be an expressive creator-facing environment; ELM remains a professional spatial/pixel production platform. Cross-product transfer should be selective.
 
-### 3. Build a user ladder across the ENTTEC ecosystem
+**Expansion is a hypothesis, not a guarantee.** The project must test real adoption, repeat use, support cost and physical-hardware friction instead of inferring success from views.
 
-A creator should be able to grow without leaving the ecosystem:
+## Source context
 
-**Creator → Prosumer → Professional**
-
-A working portfolio hypothesis:
-
-> **EMU creates new creators and discovers new creative language.  
-> ENTTEC hardware equips their growing physical setups.  
-> ELM scales selected mature ideas into professional production.**
-
-[Read: 03 — Portfolio & User Ladder](docs/03_PORTFOLIO_AND_USER_LADDER.md)
-
-### 4. Expand the category instead of only competing for existing professional users
-
-The growth opportunity is not only to win share inside the existing lighting-control market.
-
-It is to bring in people who would not currently describe themselves as lighting users:
-
-- musicians
-- dance creators
-- dance studios
-- small creative teams
-- performance-content creators
-- independent video creators
-
-Use content as a low-cost market-entry mechanism:
-
-> **Reimagined in Light** — reinterpret rights-cleared music through light, publish the process, and see whether viewers want to create this kind of work themselves.
-
-[Read: 04 — Category Expansion & Growth](docs/04_CATEGORY_EXPANSION_GROWTH.md)
-
-### 5. Turn creator demand into co-creation
-
-If the market signal is real, evolve into **EMU Artist Lab**.
-
-Principle:
-
-> **Design partner first, endorsement second.**
-
-Artists help define a Music-to-Light Visual Grammar: how musical elements carry weight, tension, intimacy, release, movement or atmosphere, and how those roles should — or should not — become visible.
-
-[Read: 05 — Artist Lab & Community](docs/05_ARTIST_LAB_COMMUNITY.md)
-
-### 6. Add AI only after the translation problem is understood
-
-AI is not the starting point.
-
-If creators repeatedly struggle to translate artistic language into lighting logic, AI can be tested as a:
-
-> **creative translator, not an automatic taste-maker**
-
-[Read: 06 — AI Creative Translator](docs/06_AI_CREATIVE_TRANSLATOR.md)
-
-### 7. Define what the Product Specialist actually owns
-
-The role should connect:
-
-**user / creator  
-→ problem definition  
-→ hypothesis  
-→ experiment  
-→ product decision  
-→ launch / adoption  
-→ learning**
-
-The strategic value is not “support more products.” It is moving from **customer input to product decision participation**.
-
-[Read: 07 — Product Specialist Operating Model](docs/07_PRODUCT_SPECIALIST_OPERATING_MODEL.md)
-
-### 8. Execute with evidence, not enthusiasm
-
-The first six months follow:
-
-> **Learn → Discover → Experiment → Prove**
-
-[Read: 08 — 180-Day Execution Plan](docs/08_180_DAY_EXECUTION_PLAN.md)
-
-### 9. Keep facts, hypotheses and unknowns separate
-
-The repository explicitly distinguishes:
-
-- published ENTTEC facts
-- strategy hypotheses
-- questions that must be validated in interview / internally
-
-[Read: 09 — Assumptions & Validation](docs/09_ASSUMPTIONS_VALIDATION.md)
-
----
-
-## Interview versions
-
-Do not present the repository as a long monologue.
-
-Use it as a story library. Ask about the real role first, then reveal only the pieces relevant to the interviewer’s answer.
-
-- [10 — 面试故事线（中文版）](docs/10_INTERVIEW_PITCH_ZH.md)
-- [11 — Interview Story (English)](docs/11_INTERVIEW_PITCH_EN.md)
-
----
-
-## The core thesis
-
-> **EMU could become the low-friction entry point that helps more people become creators with light — not by removing professional depth, but by progressively revealing it. Content and creator partnerships can open new markets and generate product learning. As users grow, ENTTEC hardware and ELM can support more advanced physical and professional workflows. AI only comes later, if real creator research shows that intent-to-light translation is a repeated problem.**
-
----
-
-## What this repository is trying to demonstrate
-
-Not:
-
-> “I already know ENTTEC’s roadmap.”
-
-But:
-
-> **“I can connect product experience, user growth, market creation, creator research, portfolio strategy and execution — while still separating hypotheses from facts.”**
-
-That is the Product Specialist story.
+These concepts were prompted by ENTTEC's published EMU and ELM product positioning. Public product details should be rechecked before practical implementation:
+- [EMU official product page](https://www.enttec.com/product/dmx-lighting-control-software/emu-sound-to-light-controller/)
+- [ELM official product page](https://www.enttec.com/product/dmx-lighting-control-software/pixel-mapping-software/)
 
 ---
 
 # 中文版
 
-这是一个围绕 ENTTEC Product Specialist 岗位构建的独立产品策略作品集，核心问题是：
+本仓库只保存 **ENTTEC EMU / ELM 的产品、创作体验、市场和生态发展设想**。
 
-> **ENTTEC 能不能让更多普通创作者轻松开始用光表达，并让其中最成熟的创作需求逐步成长成专业级产品和系统能力？**
+> **这些都是独立提出、尚待验证的项目假设，不代表 ENTTEC 已批准的产品路线图或商业计划。**
 
-> **状态：** 用于面试准备与产品思考。  
-> 本仓库**不是** ENTTEC 官方 roadmap。公开事实、产品假设与仍需验证的问题会被明确区分。
+## 项目核心问题
 
----
+**怎样让创作者把音乐和艺术意图转化为可编辑的真实灯光体验，同时保留进阶用户需要的专业深度？**
 
-## 完整故事线
+整体逻辑：
 
-这个仓库现在是一条连续的产品故事。
+**艺术意图 → EMU 创作流程 → 新创作者进入 → 硬件升级 → 有选择地进入 ELM / 专业场景**
 
-### 1. 从创作者问题开始
+## 项目文档
 
-光不应该只是跟着音乐变化，它也可以参与艺术表达。
+1. [01 — Product Thesis](docs/01_PRODUCT_THESIS.md)：从艺术意图到光影表达；Music-to-Light Visual Grammar。
+2. [02 — EMU Creator Product Model](docs/02_EMU_CREATOR_PRODUCT_MODEL.md)：Quick / Creator / Advanced 渐进复杂度、可编辑模板、与剪映/CapCut 工作流衔接的设想。
+3. [03 — Portfolio & User Ladder](docs/03_PORTFOLIO_AND_USER_LADDER.md)：Creator → Prosumer → Professional，以及 EMU、硬件、ELM 的分工。
+4. [04 — Category Expansion & Growth](docs/04_CATEGORY_EXPANSION_GROWTH.md)：舞团、练舞房、内容团队、团播/MCN、广州试点、Reimagined in Light。
+5. [05 — Artist Lab & Community](docs/05_ARTIST_LAB_COMMUNITY.md)：与音乐人共创和用户研究，社区参与、回归集。
+6. [06 — AI Creative Translator](docs/06_AI_CREATIVE_TRANSLATOR.md)：在真实需求验证后探索可编辑的意图翻译能力。
+7. [07 — Project Validation Roadmap](docs/07_PROJECT_VALIDATION_ROADMAP.md)：项目自身的研究和实验计划。
+8. [08 — Product Hypotheses & Evidence](docs/08_PRODUCT_HYPOTHESES_AND_METRICS.md)：产品假设、证据标准和验证指标。
 
-创作者可能很清楚自己希望观众感受到什么，却不知道怎样把这种意图翻译成灯光逻辑。
+## 核心原则
 
-**核心 gap：**
+**Easy to start, deep enough to grow with the creator.** 降低新手门槛，但不牺牲高级灯控能力。
 
-**艺术意图 → 视觉语言 → 可执行灯光**
+**先理解创作者意图，再考虑自动映射。** 同一种音乐元素在不同作品里可能需要完全不同的视觉关系。
 
-[阅读：01 — Product Thesis](docs/01_PRODUCT_THESIS.md)
+**Build with artists, not just for artists.** 音乐人合作首先是产品研究，其次才是品牌推广。
 
-### 2. 用渐进复杂度重新定义 EMU 体验
+**EMU 与 ELM 不应变成大小两个同款软件。** 两者服务的用户和专业要求不同，只有经过验证的能力才值得迁移。
 
-不是把专业能力删掉，而是把第一步做得足够简单，同时保留继续深挖的空间。
-
-产品原则：
-
-> **Easy to start, deep enough to grow with the creator.**
-
-同一个 project 可以逐渐展开：
-
-- **Quick / Template** — 不懂专业灯光也能立刻做出效果
-- **Creator** — 开始修改段落、视觉关系和表达意图
-- **Advanced** — 保留灯具、MIDI、automation 等更专业控制
-
-这不是“复制剪映”，而是学习同一种 creator-tool philosophy：用户不必先成为专家才能开始，但成长以后也不会很快撞到能力天花板。
-
-[阅读：02 — EMU Creator Product Model](docs/02_EMU_CREATOR_PRODUCT_MODEL.md)
-
-### 3. 建立 ENTTEC 用户成长阶梯
-
-用户能力成长时，不需要离开 ENTTEC：
-
-**Creator → Prosumer → Professional**
-
-一个值得验证的 portfolio hypothesis：
-
-> **EMU 创造新的创作者，也发现新的创作语言。  
-> ENTTEC 硬件承接他们越来越复杂的真实空间需求。  
-> ELM 把成熟能力扩展成专业级生产工具。**
-
-[阅读：03 — Portfolio & User Ladder](docs/03_PORTFOLIO_AND_USER_LADDER.md)
-
-### 4. 不只是抢专业存量用户，而是扩大整个品类
-
-增长机会不只是和现有 lighting-control 竞争对手抢同一批专业用户。
-
-还可以把原本根本不会认为自己需要灯控软件的人带进来：
-
-- 音乐人
-- 舞蹈创作者
-- 练舞房
-- 小型创作团队
-- performance-content creator
-- 独立视频创作者
-
-用内容做低成本 market entry：
-
-> **Reimagined in Light** —— 用已授权音乐重新做光影视觉诠释，公开过程，再看观众是否真的想自己做。
-
-[阅读：04 — Category Expansion & Growth](docs/04_CATEGORY_EXPANSION_GROWTH.md)
-
-### 5. 把真实 creator demand 升级成共创
-
-市场信号成立以后，再做 **EMU Artist Lab**。
-
-原则：
-
-> **Design partner first, endorsement second.**
-
-和音乐人一起建立 Music-to-Light Visual Grammar：音乐里的不同元素到底承担什么表达作用，又应该怎样——或者是否应该——被视觉化。
-
-[阅读：05 — Artist Lab & Community](docs/05_ARTIST_LAB_COMMUNITY.md)
-
-### 6. 最后才考虑 AI
-
-如果 creator research 反复证明“艺术意图很难翻译成灯光语言”，AI 才作为：
-
-> **creative translator，而不是 automatic taste-maker**
-
-[阅读：06 — AI Creative Translator](docs/06_AI_CREATIVE_TRANSLATOR.md)
-
-### 7. Product Specialist 到底拥有哪一段
-
-岗位应该连接：
-
-**用户 / 创作者  
-→ 问题定义  
-→ hypothesis  
-→ experiment  
-→ product decision  
-→ launch / adoption  
-→ learning**
-
-真正价值不是“支持更多产品”，而是从 **customer input 进入 product decision participation**。
-
-[阅读：07 — Product Specialist Operating Model](docs/07_PRODUCT_SPECIALIST_OPERATING_MODEL.md)
-
-### 8. 用证据执行
-
-前六个月：
-
-> **Learn → Discover → Experiment → Prove**
-
-[阅读：08 — 180-Day Execution Plan](docs/08_180_DAY_EXECUTION_PLAN.md)
-
-### 9. 区分事实、假设与未知
-
-[阅读：09 — Assumptions & Validation](docs/09_ASSUMPTIONS_VALIDATION.md)
-
----
-
-## 面试版本
-
-不要把仓库从头到尾念一遍。
-
-先问真实岗位，再根据对方回答只展开最相关的一层。
-
-- [10 — 面试故事线（中文版）](docs/10_INTERVIEW_PITCH_ZH.md)
-- [11 — Interview Story (English)](docs/11_INTERVIEW_PITCH_EN.md)
-
----
-
-## 核心 thesis
-
-> **EMU 可以成为一个低门槛入口，让更多人开始用光创作。它不是通过删掉专业能力来变简单，而是用 progressive disclosure 让用户逐步深入。内容和 creator partnership 用来打开新市场并产生 product learning；用户成长以后，ENTTEC 硬件和 ELM 再承接更复杂的真实空间与专业工作流。AI 只有在真实 creator research 证明 intent-to-light translation 是重复问题以后才出现。**
-
----
-
-## 这个仓库真正想证明什么
-
-不是：
-
-> “我已经知道 ENTTEC 应该怎么做。”
-
-而是：
-
-> **“我能够把 product experience、用户成长、市场创造、creator research、portfolio strategy 和 execution 连成一条逻辑，同时知道哪些只是 hypothesis。”**
-
-这才是完整的 Product Specialist 故事。
+**播放量不等于市场。** 必须验证创作者会不会真正上手、反复使用、付费，以及硬件与支持成本是否可持续。

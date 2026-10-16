@@ -185,7 +185,7 @@ It is to expose very different creator workflows early and identify where the sa
 
 ### Visual concept: before / after livestream lighting
 
-![Guangzhou livestream team — before / after lighting concept](../assets/images/guangzhou-livestream-before-after-lighting-concept.png)
+**Visual concept (asset pending):** The before/after mock mentioned below is not present in this repository at this time. It remains a proposed visualization, not evidence from a real deployment.
 
 **Figure — Guangzhou Livestream Team: Lighting Upgrade Concept.**  
 Illustrative before/after mock showing how a creator-facing ENTTEC-style lighting workflow could add subject separation, depth and visual identity to a typical group-livestream setup. The concept is intended for product and market discovery only; it is **not** a photograph of an actual ENTTEC deployment and does not claim that the shown account or team uses ENTTEC products.
@@ -567,7 +567,7 @@ Track:
 
 ### 视觉概念：团播打光 Before / After
 
-![广州团播团队灯光升级前后概念图](../assets/images/guangzhou-livestream-before-after-lighting-concept.png)
+**视觉概念（图片待补）：** 下文所说的 before/after 概念图目前尚未保存在本仓库。这是计划展示的视觉方案，不代表真实项目验证结果。
 
 **图示 — 广州团播团队灯光升级概念。**  
 这是一个概念性的 before/after mock，用来说明 creator-facing 的 ENTTEC-style lighting workflow 可能如何通过更明确的主光、补光、轮廓光和背景层次，让典型团播画面获得更好的主体分离度、立体感和视觉辨识度。本图仅用于产品与市场发现思路，**并非真实 ENTTEC 项目**，也不代表图中账号或团队正在使用 ENTTEC 产品。

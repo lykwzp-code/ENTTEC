@@ -29,7 +29,7 @@ Ask:
 - What part of the song carries the emotional weight?
 - If you avoid lighting terminology, how would you describe what you want?
 
-The Product Specialist translates those answers into testable product problems.
+The product research team translates those answers into testable product problems.
 
 ---
 
@@ -293,7 +293,7 @@ Artist Lab 是 creator-market validation 成立以后更深入的一层。
 - 哪一段真正承载情绪？
 - 不用灯光术语，你会怎样描述想要的效果？
 
-Product Specialist 把这些回答转成可验证产品问题。
+产品研究团队把这些回答转化成可验证的产品问题。
 
 ---
 
